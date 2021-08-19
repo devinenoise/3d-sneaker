@@ -1,0 +1,20 @@
+{
+  "name": "3d-sneaker",
+  "version": "1.0.0",
+  "description": "A product card to highlight rotation and a three dimensional look using Adidas ZX.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinenoise/3d-sneaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinenoise/3d-sneaker/issues"
+  },
+  "homepage": "https://github.com/devinenoise/3d-sneaker#readme"
+}
